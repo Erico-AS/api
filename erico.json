@@ -13,38 +13,38 @@
 
     {
         "id": 2,
-        "titulo": "Como Treinar o seu Dragão 2",
-        "data-lançamento": "20/06/2014",
-        "duracao": "1h 42m",
-        "tipo": "Fantasia, Ação, Aventura, Animação, Comédia, Família",
-        "avaliacao-usuarios": "77%",
-        "sinopse": "Cinco anos após convencer os habitantes de seu vilarejo que os dragões não devem ser combatidos, Soluço convive com seu dragão Fúria da Noite, e estes animais integraram pacificamente a rotina dos moradores da ilha de Berk. Entre viagens pelos céus e corridas de dragões, Soluço descobre uma caverna secreta, onde centenas de novos dragões vivem. O local é protegido por Valka, mãe de Soluço, que foi afastada do filho quando ele ainda era um bebê. Juntos, eles precisarão proteger o mundo que conhecem do perigoso Drago Bludvist, que deseja controlar todos os dragões existentes.",
-        "diretores": "Dean DeBlois",
-        "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/brmRmSagvnQVgIw1lBF4CaKpaoU.jpg"
+        "titulo": "Star Wars: Episode III - Revenge of the Sith ",
+        "data-lançamento": "19/05/2005",
+        "duracao": "2h 20m",
+        "tipo": "Aventura, Ação, Ficção científica",
+        "avaliacao-usuarios": "74%",
+        "sinopse": "As Guerras Clônicas estão em pleno andamento e Anakin Skywalker mantém um elo de lealdade com Palpatine, ao mesmo tempo em que luta para que seu casamento com Padmé Amidala não seja afetado por esta situação. Seduzido por promessas de poder, Anakin se aproxima cada vez mais de Darth Sidious até se tornar o temível Darth Vader. Juntos eles tramam um plano para aniquilar de uma vez por todas com os cavaleiros jedi.",
+        "diretores": "George Lucas",
+        "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nuF5yWtTJEEAd4Qa6cVkYz1XCST.jpg"
     },
 
     {
         "id": 3,
-        "titulo": "Homem-Aranha: Sem Volta Para Casa",
-        "data-lançamento": "16/12/2021",
-        "duracao": "2h 29m",
-        "tipo": "Ação, Aventura, Ficção científica",
-        "avaliacao-usuarios": "80%",
-        "sinopse": "Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...",
-        "diretores": "Jon Watts",
-        "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg"
+        "titulo": "Carros",
+        "data-lançamento": "30/06/2006",
+        "duracao": "1h 57m",
+        "tipo": "Animação, Aventura, Comédia, Família",
+        "avaliacao-usuarios": "69%",
+        "sinopse": "Ao viajar para a Califórnia, o famoso carro de corridas Relâmpago McQueen se perde e vai parar em Radiator Springs, uma cidadezinha na Rota 66. Ele conhece novos amigos e aprende lições que mudam sua forma de encarar a vida.",
+        "diretores": "Jon Lasseter",
+        "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2nM2NRV8wt3n3ffoHQ3KdMkY3vR.jpg"
     },
 
     {
         "id": 4,
-        "titulo": "Scott Pilgrim Contra o Mundo",
-        "data-lançamento": "27/07/2010",
-        "duracao": "1h 53m",
-        "tipo": "Ação, Comédia, Romance",
-        "avaliacao-usuarios": "75%",
-        "sinopse": "Scott Pilgrim (Michael Cera) tem 23 anos, integra uma banda de colégio, vive trocando de emprego e tem um namoro firme. Sua vida está maravilhosa, até conhecer Ramona V. Flowers (Mary Elizabeth Winestead). Ele logo se apaixona perdidamente por ela, só que não será fácil conquistar seu amor. Para tanto ele precisa enfrentar os sete ex-namorados dela, que estão dispostos a tudo para impedir sua felicidade com outra pessoa.",
-        "diretores": "Edgar Wright",
-        "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pg4CBJZKcwW024xau5Wwt7riSH0.jpg"
+        "titulo": "Prenda-me Se for Capaz",
+        "data-lançamento": "24/02/2003",
+        "duracao": "2h 21m",
+        "tipo": "Drama, Crime",
+        "avaliacao-usuarios": "80%",
+        "sinopse": "Frank Abagnale Jr. já foi médico, advogado e co-piloto, tudo isso com apenas 18 anos. Mestre na arte do disfarce, ele aproveita suas habilidades para viver a vida como quer e praticar golpes milionários, que fazem com que se torne o ladrão de banco mais bem-sucedido da história dos Estados Unidos com apenas 17 anos. Mas em seu encalço está o agente do FBI Carl Hanratty, que usa todos os meios que tem ao seu dispor para encontrá-lo e capturá-lo.",
+        "diretores": "Steven Spielberg",
+        "imagem": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pSaqcj3pwTKt34cyn6NrBE7V4eH.jpg"
     },
 
     {
