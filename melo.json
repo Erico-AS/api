@@ -2,7 +2,7 @@
     {
         "id": 1,
         "titulo": "Homem Aranha: Através do Aranhaverso",
-        "data-lançamento": "01/05/2023",
+        "lancamento": "01/05/2023",
         "duracao": "2h 20m",
         "tipo": "Animação, Aventura e Ação",
         "avaliacao-usuarios": "84%",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "titulo": "Como Treinar o seu Dragão 2",
-        "data-lançamento": "20/06/2014",
+        "lancamento": "20/06/2014",
         "duracao": "1h 42m",
         "tipo": "Fantasia, Ação, Aventura, Animação, Comédia, Família",
         "avaliacao-usuarios": "77%",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "titulo": "Homem-Aranha: Sem Volta Para Casa",
-        "data-lançamento": "16/12/2021",
+        "lancamento": "16/12/2021",
         "duracao": "2h 29m",
         "tipo": "Ação, Aventura, Ficção científica",
         "avaliacao-usuarios": "80%",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "titulo": "Scott Pilgrim Contra o Mundo",
-        "data-lançamento": "27/07/2010",
+        "lancamento": "27/07/2010",
         "duracao": "1h 53m",
         "tipo": "Ação, Comédia, Romance",
         "avaliacao-usuarios": "75%",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "titulo": "Homem-Aranha: No Aranhaverso",
-        "data-lançamento": "10/01/2019",
+        "lancamento": "10/01/2019",
         "duracao": "1h 57m",
         "tipo": "Ação, Aventura, Animação, Ficção científica",
         "avaliacao-usuarios": "84%",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "titulo": "Kung Fu Panda",
-        "data-lançamento": "06/06/2008",
+        "lancamento": "06/06/2008",
         "duracao": "1h 35m",
         "tipo": "Ação, Aventura, Animação, Família, Comédia",
         "avaliacao-usuarios": "72%",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "titulo": "De Volta para o Futuro",
-        "data-lançamento": "25/12/1985",
+        "lancamento": "25/12/1985",
         "duracao": "1h 55m",
         "tipo": "Aventura, Comédia, Ficção científica",
         "avaliacao-usuarios": "83%",
@@ -86,7 +86,7 @@
     {
         "id": 8,
         "titulo": "Até o Último Homem",
-        "data-lançamento": "26/01/2017",
+        "lancamento": "26/01/2017",
         "duracao": "2h 20m",
         "tipo": "Drama, História, Guerra",
         "avaliacao-usuarios": "82%",
