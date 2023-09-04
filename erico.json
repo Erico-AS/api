@@ -2,7 +2,7 @@
     {
         "id": 1,
         "titulo": "Ratatouille",
-        "data-lançamento": "06/07/2007",
+        "lancamento": "06/07/2007",
         "duracao": "1h 50m",
         "tipo": "Animação, Comédia, Família, Fantasia",
         "avaliacao-usuarios": "78%",
@@ -14,7 +14,7 @@
     {
         "id": 2,
         "titulo": "Star Wars: Episode III - Revenge of the Sith ",
-        "data-lançamento": "19/05/2005",
+        "lancamento": "19/05/2005",
         "duracao": "2h 20m",
         "tipo": "Aventura, Ação, Ficção científica",
         "avaliacao-usuarios": "74%",
@@ -26,7 +26,7 @@
     {
         "id": 3,
         "titulo": "Carros",
-        "data-lançamento": "30/06/2006",
+        "lancamento": "30/06/2006",
         "duracao": "1h 57m",
         "tipo": "Animação, Aventura, Comédia, Família",
         "avaliacao-usuarios": "69%",
@@ -38,7 +38,7 @@
     {
         "id": 4,
         "titulo": "Prenda-me Se for Capaz",
-        "data-lançamento": "24/02/2003",
+        "lancamento": "24/02/2003",
         "duracao": "2h 21m",
         "tipo": "Drama, Crime",
         "avaliacao-usuarios": "80%",
@@ -50,7 +50,7 @@
     {
         "id": 5,
         "titulo": "A Origem",
-        "data-lançamento": "06/08/2010",
+        "lancamento": "06/08/2010",
         "duracao": "2h 28m",
         "tipo": "Ação, Ficção científica, Aventura",
         "avaliacao-usuarios": "84%",
@@ -62,7 +62,7 @@
     {
         "id": 6,
         "titulo": "Interestelar",
-        "data-lançamento": "06/11/2014",
+        "lancamento": "06/11/2014",
         "duracao": "2h 49m",
         "tipo": "Aventura, Drama, Ficção científica",
         "avaliacao-usuarios": "84%",
@@ -74,7 +74,7 @@
     {
         "id": 7,
         "titulo": "Batman: O Cavaleiro das Trevas",
-        "data-lançamento": "18/07/2008",
+        "lancamento": "18/07/2008",
         "duracao": "2h 32m",
         "tipo": "Drama, Ação, Crime, Thriller",
         "avaliacao-usuarios": "85%",
@@ -86,7 +86,7 @@
     {
         "id": 8,
         "titulo": "Vingadores: Ultimato",
-        "data-lançamento": "25/04/2019",
+        "lancamento": "25/04/2019",
         "duracao": "3h 1m",
         "tipo": "Aventura, Ficção científica, Ação",
         "avaliacao-usuarios": "83%",
@@ -98,7 +98,7 @@
     {
         "id": 9,
         "titulo": "Homem-Aranha",
-        "data-lançamento": "17/05/2002",
+        "lancamento": "17/05/2002",
         "duracao": "2h 1m",
         "tipo": "Fantasia, Ação",
         "avaliacao-usuarios": "73%",
@@ -110,7 +110,7 @@
     {
         "id": 10,
         "titulo": "WALL-E",
-        "data-lançamento": "27/06/2008",
+        "lancamento": "27/06/2008",
         "duracao": "1h 37m",
         "tipo": "Animação, Família, Ficção científica",
         "avaliacao-usuarios": "81%",
@@ -122,7 +122,7 @@
     {
         "id": 11,
         "titulo": "Monstros S.A.",
-        "data-lançamento": "14/11/2001",
+        "lancamento": "14/11/2001",
         "duracao": "1h 32m",
         "tipo": "Animação, Comédia, Família",
         "avaliacao-usuarios": "78%",
@@ -134,7 +134,7 @@
     {
         "id": 12,
         "titulo": "Um Estranho no Ninho",
-        "data-lançamento": "28/05/1976",
+        "lancamento": "28/05/1976",
         "duracao": "2h 13m",
         "tipo": "Drama",
         "avaliacao-usuarios": "84%",
@@ -146,7 +146,7 @@
     {
         "id": 13,
         "titulo": "O Resgate do Soldado Ryan",
-        "data-lançamento": "11/09/1998",
+        "lancamento": "11/09/1998",
         "duracao": "2h 50m",
         "tipo": "Drama, História, Guerra",
         "avaliacao-usuarios": "82%",
@@ -158,7 +158,7 @@
     {
         "id": 14,
         "titulo": "Forrest Gump: O Contador de Histórias",
-        "data-lançamento": "07/12/1994",
+        "lancamento": "07/12/1994",
         "duracao": "2h 22m",
         "tipo": "Comédia, Drama, Romance",
         "avaliacao-usuarios": "85%",
@@ -170,7 +170,7 @@
     {
         "id": 15,
         "titulo": "O Show de Truman: O Show da Vida",
-        "data-lançamento": "04/06/1998",
+        "lancamento": "04/06/1998",
         "duracao": "1h 43m",
         "tipo": "Comédia, Drama",
         "avaliacao-usuarios": "81%",
